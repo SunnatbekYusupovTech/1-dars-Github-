@@ -1,0 +1,18 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@12.0.2
+2 info using node@v24.15.0
+3 silly config load:file:C:\Users\User\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:E:\Desktop\Mars\nF-468\2-Oy\1-dars (Github)\.npmrc
+5 silly config load:file:C:\Users\User\.npmrc
+6 silly config load:file:C:\Users\User\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm config get prefix
+8 verbose argv "config" "get" "prefix"
+9 verbose logfile logs-max:10 dir:E:\Desktop\Mars\nF-468\2-Oy\1-dars (Github)\npm-cache\_logs\2026-08-20T11_32_12_787Z-
+10 verbose logfile E:\Desktop\Mars\nF-468\2-Oy\1-dars (Github)\npm-cache\_logs\2026-08-20T11_32_12_787Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd E:\Desktop\Mars\nF-468\2-Oy\1-dars (Github)
+13 verbose os Windows_NT 10.0.26200
+14 verbose node v24.15.0
+15 verbose npm  v12.0.2
+16 verbose exit 0
+17 info ok
